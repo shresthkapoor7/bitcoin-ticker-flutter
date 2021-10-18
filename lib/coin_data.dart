@@ -1,6 +1,6 @@
 import 'package:http/http.dart' as http;
 
-const apikey = '76BDB961-93A8-488D-A99D-9AD582C427C4';
+const apikey = 'Write-Your-Own-API';
 const List<String> currenciesList = [
   'AUD',
   'BRL',
